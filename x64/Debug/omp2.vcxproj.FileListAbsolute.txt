@@ -1,0 +1,1 @@
+D:\OpenMP\omp2\x64\Debug\omp2.exe
